@@ -1,3 +1,4 @@
+// pré processado
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
 function tocaSomPom() {
